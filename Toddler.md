@@ -14,7 +14,7 @@
 |Dohui Park|[do-park](https://github.com/do-park)|
 |Seungkyung Lee|[lee03190](https://github.com/lee03190)|
 |Seunghyuk Shin|[seunghyukshin](https://github.com/seunghyukshin)|
-|hyemin|[Rheemhyemin](https://github.com/Rheemhyemin)|
+|hyemin|[Rheemhyemin](https://github.com/Rheemhyemin)| 
 |SungHyeon Lee|[lshmn951](https://github.com/lshmn951)|
 |Kyuseong Jo|[Jokyuseong](https://github.com/Jokyuseong)|
 |So Ra Chin|[sorachin](https://github.com/sorachin)|
@@ -777,3 +777,4 @@
 |Junyoung|[belol311](https://github.com/belol311)|
 |Hwan|[dnfwlq8054](https://github.com/dnfwlq8054)|
 |Jaeseung Lee|[tkxkd0159](https://github.com/tkxkd0159)|
+|KangMinWoo21|[Minwoo](https://github.com/KangMinWoo21)|
